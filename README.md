@@ -10,6 +10,7 @@
 ## String
 |  |
 | ------- |
+| [1869-longer-contiguous-segments-of-ones-than-zeros](https://github.com/muhammednaseemtk/leetCode/tree/master/1869-longer-contiguous-segments-of-ones-than-zeros) |
 | [1903-largest-odd-number-in-string](https://github.com/muhammednaseemtk/leetCode/tree/master/1903-largest-odd-number-in-string) |
 | [2947-count-beautiful-substrings-i](https://github.com/muhammednaseemtk/leetCode/tree/master/2947-count-beautiful-substrings-i) |
 ## Greedy
