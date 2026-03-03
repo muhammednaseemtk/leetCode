@@ -1,0 +1,14 @@
+class Solution {
+  String triangleType(List<int> nums) {
+    nums.sort();
+
+    if(nums[0] + nums[1] <= nums[2]) {
+        return 'none';
+    } else if(nums[0] == nums[1] && nums[1] == nums[2]) {
+        return 'equilateral';
+    } else if(nums[0] == nums[1] || nums[1] == nums[2]) {
+        return 'isosceles';
+    }
+    return 'scalene';
+  }
+}
