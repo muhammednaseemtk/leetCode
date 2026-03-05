@@ -12,6 +12,7 @@
 ## String
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/muhammednaseemtk/leetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [1869-longer-contiguous-segments-of-ones-than-zeros](https://github.com/muhammednaseemtk/leetCode/tree/master/1869-longer-contiguous-segments-of-ones-than-zeros) |
 | [1903-largest-odd-number-in-string](https://github.com/muhammednaseemtk/leetCode/tree/master/1903-largest-odd-number-in-string) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/muhammednaseemtk/leetCode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
@@ -24,6 +25,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/muhammednaseemtk/leetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [1512-number-of-good-pairs](https://github.com/muhammednaseemtk/leetCode/tree/master/1512-number-of-good-pairs) |
 | [2947-count-beautiful-substrings-i](https://github.com/muhammednaseemtk/leetCode/tree/master/2947-count-beautiful-substrings-i) |
 ## Enumeration
@@ -52,5 +54,10 @@
 ## Counting
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/muhammednaseemtk/leetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [1512-number-of-good-pairs](https://github.com/muhammednaseemtk/leetCode/tree/master/1512-number-of-good-pairs) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/muhammednaseemtk/leetCode/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
