@@ -7,6 +7,7 @@
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/muhammednaseemtk/leetCode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1512-number-of-good-pairs](https://github.com/muhammednaseemtk/leetCode/tree/master/1512-number-of-good-pairs) |
 | [1903-largest-odd-number-in-string](https://github.com/muhammednaseemtk/leetCode/tree/master/1903-largest-odd-number-in-string) |
+| [2520-count-the-digits-that-divide-a-number](https://github.com/muhammednaseemtk/leetCode/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2947-count-beautiful-substrings-i](https://github.com/muhammednaseemtk/leetCode/tree/master/2947-count-beautiful-substrings-i) |
 | [3024-type-of-triangle](https://github.com/muhammednaseemtk/leetCode/tree/master/3024-type-of-triangle) |
 ## String
