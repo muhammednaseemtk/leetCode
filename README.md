@@ -22,6 +22,7 @@
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/muhammednaseemtk/leetCode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2942-find-words-containing-character](https://github.com/muhammednaseemtk/leetCode/tree/master/2942-find-words-containing-character) |
 | [2947-count-beautiful-substrings-i](https://github.com/muhammednaseemtk/leetCode/tree/master/2947-count-beautiful-substrings-i) |
+| [3019-number-of-changing-keys](https://github.com/muhammednaseemtk/leetCode/tree/master/3019-number-of-changing-keys) |
 ## Greedy
 |  |
 | ------- |
