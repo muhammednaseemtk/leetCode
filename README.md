@@ -13,6 +13,7 @@
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/muhammednaseemtk/leetCode/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [2947-count-beautiful-substrings-i](https://github.com/muhammednaseemtk/leetCode/tree/master/2947-count-beautiful-substrings-i) |
 | [3024-type-of-triangle](https://github.com/muhammednaseemtk/leetCode/tree/master/3024-type-of-triangle) |
+| [3232-find-if-digit-game-can-be-won](https://github.com/muhammednaseemtk/leetCode/tree/master/3232-find-if-digit-game-can-be-won) |
 ## String
 |  |
 | ------- |
@@ -56,6 +57,7 @@
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/muhammednaseemtk/leetCode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2942-find-words-containing-character](https://github.com/muhammednaseemtk/leetCode/tree/master/2942-find-words-containing-character) |
 | [3024-type-of-triangle](https://github.com/muhammednaseemtk/leetCode/tree/master/3024-type-of-triangle) |
+| [3232-find-if-digit-game-can-be-won](https://github.com/muhammednaseemtk/leetCode/tree/master/3232-find-if-digit-game-can-be-won) |
 ## Sorting
 |  |
 | ------- |
