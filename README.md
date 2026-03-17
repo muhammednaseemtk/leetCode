@@ -55,6 +55,7 @@
 | [0189-rotate-array](https://github.com/muhammednaseemtk/leetCode/tree/master/0189-rotate-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/muhammednaseemtk/leetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1512-number-of-good-pairs](https://github.com/muhammednaseemtk/leetCode/tree/master/1512-number-of-good-pairs) |
+| [1672-richest-customer-wealth](https://github.com/muhammednaseemtk/leetCode/tree/master/1672-richest-customer-wealth) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/muhammednaseemtk/leetCode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/muhammednaseemtk/leetCode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/muhammednaseemtk/leetCode/tree/master/2798-number-of-employees-who-met-the-target) |
@@ -85,4 +86,8 @@
 |  |
 | ------- |
 | [1486-xor-operation-in-an-array](https://github.com/muhammednaseemtk/leetCode/tree/master/1486-xor-operation-in-an-array) |
+## Matrix
+|  |
+| ------- |
+| [1672-richest-customer-wealth](https://github.com/muhammednaseemtk/leetCode/tree/master/1672-richest-customer-wealth) |
 <!---LeetCode Topics End-->
