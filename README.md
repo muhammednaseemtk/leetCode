@@ -65,6 +65,7 @@
 | [0682-baseball-game](https://github.com/muhammednaseemtk/leetCode/tree/master/0682-baseball-game) |
 | [0977-squares-of-a-sorted-array](https://github.com/muhammednaseemtk/leetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/muhammednaseemtk/leetCode/tree/master/1051-height-checker) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/muhammednaseemtk/leetCode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/muhammednaseemtk/leetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1436-destination-city](https://github.com/muhammednaseemtk/leetCode/tree/master/1436-destination-city) |
 | [1512-number-of-good-pairs](https://github.com/muhammednaseemtk/leetCode/tree/master/1512-number-of-good-pairs) |
@@ -85,12 +86,14 @@
 | [0561-array-partition](https://github.com/muhammednaseemtk/leetCode/tree/master/0561-array-partition) |
 | [0977-squares-of-a-sorted-array](https://github.com/muhammednaseemtk/leetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/muhammednaseemtk/leetCode/tree/master/1051-height-checker) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/muhammednaseemtk/leetCode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/muhammednaseemtk/leetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [3024-type-of-triangle](https://github.com/muhammednaseemtk/leetCode/tree/master/3024-type-of-triangle) |
 ## Counting
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/muhammednaseemtk/leetCode/tree/master/0387-first-unique-character-in-a-string) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/muhammednaseemtk/leetCode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1512-number-of-good-pairs](https://github.com/muhammednaseemtk/leetCode/tree/master/1512-number-of-good-pairs) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/muhammednaseemtk/leetCode/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 ## Queue
@@ -106,6 +109,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/muhammednaseemtk/leetCode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1486-xor-operation-in-an-array](https://github.com/muhammednaseemtk/leetCode/tree/master/1486-xor-operation-in-an-array) |
 ## Matrix
 |  |
