@@ -41,6 +41,7 @@
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/muhammednaseemtk/leetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1436-destination-city](https://github.com/muhammednaseemtk/leetCode/tree/master/1436-destination-city) |
 | [1512-number-of-good-pairs](https://github.com/muhammednaseemtk/leetCode/tree/master/1512-number-of-good-pairs) |
+| [1636-sort-array-by-increasing-frequency](https://github.com/muhammednaseemtk/leetCode/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/muhammednaseemtk/leetCode/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2947-count-beautiful-substrings-i](https://github.com/muhammednaseemtk/leetCode/tree/master/2947-count-beautiful-substrings-i) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/muhammednaseemtk/leetCode/tree/master/2956-find-common-elements-between-two-arrays) |
@@ -70,6 +71,7 @@
 | [1436-destination-city](https://github.com/muhammednaseemtk/leetCode/tree/master/1436-destination-city) |
 | [1512-number-of-good-pairs](https://github.com/muhammednaseemtk/leetCode/tree/master/1512-number-of-good-pairs) |
 | [1550-three-consecutive-odds](https://github.com/muhammednaseemtk/leetCode/tree/master/1550-three-consecutive-odds) |
+| [1636-sort-array-by-increasing-frequency](https://github.com/muhammednaseemtk/leetCode/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1672-richest-customer-wealth](https://github.com/muhammednaseemtk/leetCode/tree/master/1672-richest-customer-wealth) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/muhammednaseemtk/leetCode/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/muhammednaseemtk/leetCode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
@@ -88,6 +90,7 @@
 | [1051-height-checker](https://github.com/muhammednaseemtk/leetCode/tree/master/1051-height-checker) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/muhammednaseemtk/leetCode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/muhammednaseemtk/leetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1636-sort-array-by-increasing-frequency](https://github.com/muhammednaseemtk/leetCode/tree/master/1636-sort-array-by-increasing-frequency) |
 | [3024-type-of-triangle](https://github.com/muhammednaseemtk/leetCode/tree/master/3024-type-of-triangle) |
 ## Counting
 |  |
