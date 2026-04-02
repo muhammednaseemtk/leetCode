@@ -10,6 +10,7 @@
 | [1512-number-of-good-pairs](https://github.com/muhammednaseemtk/leetCode/tree/master/1512-number-of-good-pairs) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/muhammednaseemtk/leetCode/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1903-largest-odd-number-in-string](https://github.com/muhammednaseemtk/leetCode/tree/master/1903-largest-odd-number-in-string) |
+| [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/muhammednaseemtk/leetCode/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/muhammednaseemtk/leetCode/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/muhammednaseemtk/leetCode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/muhammednaseemtk/leetCode/tree/master/2894-divisible-and-non-divisible-sums-difference) |
@@ -34,6 +35,7 @@
 | ------- |
 | [0561-array-partition](https://github.com/muhammednaseemtk/leetCode/tree/master/0561-array-partition) |
 | [1903-largest-odd-number-in-string](https://github.com/muhammednaseemtk/leetCode/tree/master/1903-largest-odd-number-in-string) |
+| [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/muhammednaseemtk/leetCode/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 ## Hash Table
 |  |
 | ------- |
@@ -96,6 +98,7 @@
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/muhammednaseemtk/leetCode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/muhammednaseemtk/leetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/muhammednaseemtk/leetCode/tree/master/1636-sort-array-by-increasing-frequency) |
+| [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/muhammednaseemtk/leetCode/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [3024-type-of-triangle](https://github.com/muhammednaseemtk/leetCode/tree/master/3024-type-of-triangle) |
 ## Counting
 |  |
