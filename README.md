@@ -27,6 +27,7 @@
 | [1903-largest-odd-number-in-string](https://github.com/muhammednaseemtk/leetCode/tree/master/1903-largest-odd-number-in-string) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/muhammednaseemtk/leetCode/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/muhammednaseemtk/leetCode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [2418-sort-the-people](https://github.com/muhammednaseemtk/leetCode/tree/master/2418-sort-the-people) |
 | [2942-find-words-containing-character](https://github.com/muhammednaseemtk/leetCode/tree/master/2942-find-words-containing-character) |
 | [2947-count-beautiful-substrings-i](https://github.com/muhammednaseemtk/leetCode/tree/master/2947-count-beautiful-substrings-i) |
 | [3019-number-of-changing-keys](https://github.com/muhammednaseemtk/leetCode/tree/master/3019-number-of-changing-keys) |
@@ -46,6 +47,7 @@
 | [1512-number-of-good-pairs](https://github.com/muhammednaseemtk/leetCode/tree/master/1512-number-of-good-pairs) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/muhammednaseemtk/leetCode/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/muhammednaseemtk/leetCode/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
+| [2418-sort-the-people](https://github.com/muhammednaseemtk/leetCode/tree/master/2418-sort-the-people) |
 | [2947-count-beautiful-substrings-i](https://github.com/muhammednaseemtk/leetCode/tree/master/2947-count-beautiful-substrings-i) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/muhammednaseemtk/leetCode/tree/master/2956-find-common-elements-between-two-arrays) |
 ## Enumeration
@@ -80,6 +82,7 @@
 | [1672-richest-customer-wealth](https://github.com/muhammednaseemtk/leetCode/tree/master/1672-richest-customer-wealth) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/muhammednaseemtk/leetCode/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/muhammednaseemtk/leetCode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [2418-sort-the-people](https://github.com/muhammednaseemtk/leetCode/tree/master/2418-sort-the-people) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/muhammednaseemtk/leetCode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/muhammednaseemtk/leetCode/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2942-find-words-containing-character](https://github.com/muhammednaseemtk/leetCode/tree/master/2942-find-words-containing-character) |
@@ -99,6 +102,7 @@
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/muhammednaseemtk/leetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/muhammednaseemtk/leetCode/tree/master/1636-sort-array-by-increasing-frequency) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/muhammednaseemtk/leetCode/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
+| [2418-sort-the-people](https://github.com/muhammednaseemtk/leetCode/tree/master/2418-sort-the-people) |
 | [3024-type-of-triangle](https://github.com/muhammednaseemtk/leetCode/tree/master/3024-type-of-triangle) |
 ## Counting
 |  |
