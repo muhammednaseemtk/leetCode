@@ -21,6 +21,7 @@
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/muhammednaseemtk/leetCode/tree/master/0020-valid-parentheses) |
 | [0387-first-unique-character-in-a-string](https://github.com/muhammednaseemtk/leetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0657-robot-return-to-origin](https://github.com/muhammednaseemtk/leetCode/tree/master/0657-robot-return-to-origin) |
 | [0771-jewels-and-stones](https://github.com/muhammednaseemtk/leetCode/tree/master/0771-jewels-and-stones) |
@@ -152,6 +153,7 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/muhammednaseemtk/leetCode/tree/master/0020-valid-parentheses) |
 | [0682-baseball-game](https://github.com/muhammednaseemtk/leetCode/tree/master/0682-baseball-game) |
 ## Tree
 |  |
