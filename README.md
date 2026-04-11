@@ -56,6 +56,7 @@
 | [2418-sort-the-people](https://github.com/muhammednaseemtk/leetCode/tree/master/2418-sort-the-people) |
 | [2947-count-beautiful-substrings-i](https://github.com/muhammednaseemtk/leetCode/tree/master/2947-count-beautiful-substrings-i) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/muhammednaseemtk/leetCode/tree/master/2956-find-common-elements-between-two-arrays) |
+| [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/muhammednaseemtk/leetCode/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 ## Enumeration
 |  |
 | ------- |
@@ -100,6 +101,7 @@
 | [2956-find-common-elements-between-two-arrays](https://github.com/muhammednaseemtk/leetCode/tree/master/2956-find-common-elements-between-two-arrays) |
 | [3024-type-of-triangle](https://github.com/muhammednaseemtk/leetCode/tree/master/3024-type-of-triangle) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/muhammednaseemtk/leetCode/tree/master/3232-find-if-digit-game-can-be-won) |
+| [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/muhammednaseemtk/leetCode/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 ## Sorting
 |  |
 | ------- |
