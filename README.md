@@ -33,6 +33,7 @@
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/muhammednaseemtk/leetCode/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/muhammednaseemtk/leetCode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2418-sort-the-people](https://github.com/muhammednaseemtk/leetCode/tree/master/2418-sort-the-people) |
+| [2697-lexicographically-smallest-palindrome](https://github.com/muhammednaseemtk/leetCode/tree/master/2697-lexicographically-smallest-palindrome) |
 | [2942-find-words-containing-character](https://github.com/muhammednaseemtk/leetCode/tree/master/2942-find-words-containing-character) |
 | [2947-count-beautiful-substrings-i](https://github.com/muhammednaseemtk/leetCode/tree/master/2947-count-beautiful-substrings-i) |
 | [3019-number-of-changing-keys](https://github.com/muhammednaseemtk/leetCode/tree/master/3019-number-of-changing-keys) |
@@ -43,6 +44,7 @@
 | [1221-split-a-string-in-balanced-strings](https://github.com/muhammednaseemtk/leetCode/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1903-largest-odd-number-in-string](https://github.com/muhammednaseemtk/leetCode/tree/master/1903-largest-odd-number-in-string) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/muhammednaseemtk/leetCode/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
+| [2697-lexicographically-smallest-palindrome](https://github.com/muhammednaseemtk/leetCode/tree/master/2697-lexicographically-smallest-palindrome) |
 ## Hash Table
 |  |
 | ------- |
@@ -145,6 +147,7 @@
 | [0189-rotate-array](https://github.com/muhammednaseemtk/leetCode/tree/master/0189-rotate-array) |
 | [0922-sort-array-by-parity-ii](https://github.com/muhammednaseemtk/leetCode/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/muhammednaseemtk/leetCode/tree/master/0977-squares-of-a-sorted-array) |
+| [2697-lexicographically-smallest-palindrome](https://github.com/muhammednaseemtk/leetCode/tree/master/2697-lexicographically-smallest-palindrome) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/muhammednaseemtk/leetCode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Bit Manipulation
 |  |
