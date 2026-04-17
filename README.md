@@ -91,6 +91,7 @@
 | [0977-squares-of-a-sorted-array](https://github.com/muhammednaseemtk/leetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/muhammednaseemtk/leetCode/tree/master/1051-height-checker) |
 | [1122-relative-sort-array](https://github.com/muhammednaseemtk/leetCode/tree/master/1122-relative-sort-array) |
+| [1200-minimum-absolute-difference](https://github.com/muhammednaseemtk/leetCode/tree/master/1200-minimum-absolute-difference) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/muhammednaseemtk/leetCode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/muhammednaseemtk/leetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1436-destination-city](https://github.com/muhammednaseemtk/leetCode/tree/master/1436-destination-city) |
@@ -123,6 +124,7 @@
 | [0977-squares-of-a-sorted-array](https://github.com/muhammednaseemtk/leetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/muhammednaseemtk/leetCode/tree/master/1051-height-checker) |
 | [1122-relative-sort-array](https://github.com/muhammednaseemtk/leetCode/tree/master/1122-relative-sort-array) |
+| [1200-minimum-absolute-difference](https://github.com/muhammednaseemtk/leetCode/tree/master/1200-minimum-absolute-difference) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/muhammednaseemtk/leetCode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/muhammednaseemtk/leetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/muhammednaseemtk/leetCode/tree/master/1636-sort-array-by-increasing-frequency) |
