@@ -43,6 +43,7 @@
 | [0561-array-partition](https://github.com/muhammednaseemtk/leetCode/tree/master/0561-array-partition) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/muhammednaseemtk/leetCode/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1903-largest-odd-number-in-string](https://github.com/muhammednaseemtk/leetCode/tree/master/1903-largest-odd-number-in-string) |
+| [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/muhammednaseemtk/leetCode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/muhammednaseemtk/leetCode/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2697-lexicographically-smallest-palindrome](https://github.com/muhammednaseemtk/leetCode/tree/master/2697-lexicographically-smallest-palindrome) |
 ## Hash Table
@@ -102,6 +103,7 @@
 | [1672-richest-customer-wealth](https://github.com/muhammednaseemtk/leetCode/tree/master/1672-richest-customer-wealth) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/muhammednaseemtk/leetCode/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/muhammednaseemtk/leetCode/tree/master/1863-sum-of-all-subset-xor-totals) |
+| [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/muhammednaseemtk/leetCode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/muhammednaseemtk/leetCode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2418-sort-the-people](https://github.com/muhammednaseemtk/leetCode/tree/master/2418-sort-the-people) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/muhammednaseemtk/leetCode/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
@@ -130,6 +132,7 @@
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/muhammednaseemtk/leetCode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/muhammednaseemtk/leetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/muhammednaseemtk/leetCode/tree/master/1636-sort-array-by-increasing-frequency) |
+| [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/muhammednaseemtk/leetCode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/muhammednaseemtk/leetCode/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2418-sort-the-people](https://github.com/muhammednaseemtk/leetCode/tree/master/2418-sort-the-people) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/muhammednaseemtk/leetCode/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
@@ -203,6 +206,7 @@
 | [1051-height-checker](https://github.com/muhammednaseemtk/leetCode/tree/master/1051-height-checker) |
 | [1122-relative-sort-array](https://github.com/muhammednaseemtk/leetCode/tree/master/1122-relative-sort-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/muhammednaseemtk/leetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/muhammednaseemtk/leetCode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 ## Binary Search
 |  |
 | ------- |
