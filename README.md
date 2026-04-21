@@ -78,6 +78,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [1480-running-sum-of-1d-array](https://github.com/muhammednaseemtk/leetCode/tree/master/1480-running-sum-of-1d-array) |
 | [2947-count-beautiful-substrings-i](https://github.com/muhammednaseemtk/leetCode/tree/master/2947-count-beautiful-substrings-i) |
 ## Array
 |  |
@@ -98,6 +99,7 @@
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/muhammednaseemtk/leetCode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/muhammednaseemtk/leetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1436-destination-city](https://github.com/muhammednaseemtk/leetCode/tree/master/1436-destination-city) |
+| [1480-running-sum-of-1d-array](https://github.com/muhammednaseemtk/leetCode/tree/master/1480-running-sum-of-1d-array) |
 | [1512-number-of-good-pairs](https://github.com/muhammednaseemtk/leetCode/tree/master/1512-number-of-good-pairs) |
 | [1550-three-consecutive-odds](https://github.com/muhammednaseemtk/leetCode/tree/master/1550-three-consecutive-odds) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/muhammednaseemtk/leetCode/tree/master/1636-sort-array-by-increasing-frequency) |
