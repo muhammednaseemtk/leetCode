@@ -85,6 +85,7 @@
 ## Array
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/muhammednaseemtk/leetCode/tree/master/0035-search-insert-position) |
 | [0078-subsets](https://github.com/muhammednaseemtk/leetCode/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/muhammednaseemtk/leetCode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/muhammednaseemtk/leetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -220,6 +221,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/muhammednaseemtk/leetCode/tree/master/0035-search-insert-position) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/muhammednaseemtk/leetCode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Backtracking
 |  |
