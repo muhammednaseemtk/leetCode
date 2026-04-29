@@ -96,6 +96,7 @@
 | [0922-sort-array-by-parity-ii](https://github.com/muhammednaseemtk/leetCode/tree/master/0922-sort-array-by-parity-ii) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/muhammednaseemtk/leetCode/tree/master/0950-reveal-cards-in-increasing-order) |
 | [0977-squares-of-a-sorted-array](https://github.com/muhammednaseemtk/leetCode/tree/master/0977-squares-of-a-sorted-array) |
+| [1046-last-stone-weight](https://github.com/muhammednaseemtk/leetCode/tree/master/1046-last-stone-weight) |
 | [1051-height-checker](https://github.com/muhammednaseemtk/leetCode/tree/master/1051-height-checker) |
 | [1122-relative-sort-array](https://github.com/muhammednaseemtk/leetCode/tree/master/1122-relative-sort-array) |
 | [1200-minimum-absolute-difference](https://github.com/muhammednaseemtk/leetCode/tree/master/1200-minimum-absolute-difference) |
@@ -240,4 +241,8 @@
 |  |
 | ------- |
 | [2185-counting-words-with-a-given-prefix](https://github.com/muhammednaseemtk/leetCode/tree/master/2185-counting-words-with-a-given-prefix) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1046-last-stone-weight](https://github.com/muhammednaseemtk/leetCode/tree/master/1046-last-stone-weight) |
 <!---LeetCode Topics End-->
