@@ -62,6 +62,7 @@
 | [1512-number-of-good-pairs](https://github.com/muhammednaseemtk/leetCode/tree/master/1512-number-of-good-pairs) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/muhammednaseemtk/leetCode/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/muhammednaseemtk/leetCode/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
+| [2341-maximum-number-of-pairs-in-array](https://github.com/muhammednaseemtk/leetCode/tree/master/2341-maximum-number-of-pairs-in-array) |
 | [2418-sort-the-people](https://github.com/muhammednaseemtk/leetCode/tree/master/2418-sort-the-people) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/muhammednaseemtk/leetCode/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2947-count-beautiful-substrings-i](https://github.com/muhammednaseemtk/leetCode/tree/master/2947-count-beautiful-substrings-i) |
@@ -113,6 +114,7 @@
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/muhammednaseemtk/leetCode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/muhammednaseemtk/leetCode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/muhammednaseemtk/leetCode/tree/master/2185-counting-words-with-a-given-prefix) |
+| [2341-maximum-number-of-pairs-in-array](https://github.com/muhammednaseemtk/leetCode/tree/master/2341-maximum-number-of-pairs-in-array) |
 | [2418-sort-the-people](https://github.com/muhammednaseemtk/leetCode/tree/master/2418-sort-the-people) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/muhammednaseemtk/leetCode/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/muhammednaseemtk/leetCode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
@@ -157,6 +159,7 @@
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/muhammednaseemtk/leetCode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1512-number-of-good-pairs](https://github.com/muhammednaseemtk/leetCode/tree/master/1512-number-of-good-pairs) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/muhammednaseemtk/leetCode/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
+| [2341-maximum-number-of-pairs-in-array](https://github.com/muhammednaseemtk/leetCode/tree/master/2341-maximum-number-of-pairs-in-array) |
 ## Queue
 |  |
 | ------- |
