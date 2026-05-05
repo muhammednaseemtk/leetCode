@@ -29,6 +29,7 @@
 | [0657-robot-return-to-origin](https://github.com/muhammednaseemtk/leetCode/tree/master/0657-robot-return-to-origin) |
 | [0771-jewels-and-stones](https://github.com/muhammednaseemtk/leetCode/tree/master/0771-jewels-and-stones) |
 | [0791-custom-sort-string](https://github.com/muhammednaseemtk/leetCode/tree/master/0791-custom-sort-string) |
+| [1021-remove-outermost-parentheses](https://github.com/muhammednaseemtk/leetCode/tree/master/1021-remove-outermost-parentheses) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/muhammednaseemtk/leetCode/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1436-destination-city](https://github.com/muhammednaseemtk/leetCode/tree/master/1436-destination-city) |
 | [1869-longer-contiguous-segments-of-ones-than-zeros](https://github.com/muhammednaseemtk/leetCode/tree/master/1869-longer-contiguous-segments-of-ones-than-zeros) |
@@ -202,6 +203,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/muhammednaseemtk/leetCode/tree/master/0020-valid-parentheses) |
 | [0682-baseball-game](https://github.com/muhammednaseemtk/leetCode/tree/master/0682-baseball-game) |
+| [1021-remove-outermost-parentheses](https://github.com/muhammednaseemtk/leetCode/tree/master/1021-remove-outermost-parentheses) |
 ## Tree
 |  |
 | ------- |
