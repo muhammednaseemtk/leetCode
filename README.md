@@ -42,6 +42,7 @@
 | [2942-find-words-containing-character](https://github.com/muhammednaseemtk/leetCode/tree/master/2942-find-words-containing-character) |
 | [2947-count-beautiful-substrings-i](https://github.com/muhammednaseemtk/leetCode/tree/master/2947-count-beautiful-substrings-i) |
 | [3019-number-of-changing-keys](https://github.com/muhammednaseemtk/leetCode/tree/master/3019-number-of-changing-keys) |
+| [3884-first-matching-character-from-both-ends](https://github.com/muhammednaseemtk/leetCode/tree/master/3884-first-matching-character-from-both-ends) |
 ## Greedy
 |  |
 | ------- |
@@ -180,6 +181,7 @@
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/muhammednaseemtk/leetCode/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2697-lexicographically-smallest-palindrome](https://github.com/muhammednaseemtk/leetCode/tree/master/2697-lexicographically-smallest-palindrome) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/muhammednaseemtk/leetCode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [3884-first-matching-character-from-both-ends](https://github.com/muhammednaseemtk/leetCode/tree/master/3884-first-matching-character-from-both-ends) |
 ## Bit Manipulation
 |  |
 | ------- |
