@@ -69,6 +69,7 @@
 | [1436-destination-city](https://github.com/muhammednaseemtk/leetCode/tree/master/1436-destination-city) |
 | [1512-number-of-good-pairs](https://github.com/muhammednaseemtk/leetCode/tree/master/1512-number-of-good-pairs) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/muhammednaseemtk/leetCode/tree/master/1636-sort-array-by-increasing-frequency) |
+| [1748-sum-of-unique-elements](https://github.com/muhammednaseemtk/leetCode/tree/master/1748-sum-of-unique-elements) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/muhammednaseemtk/leetCode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/muhammednaseemtk/leetCode/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/muhammednaseemtk/leetCode/tree/master/2341-maximum-number-of-pairs-in-array) |
@@ -121,6 +122,7 @@
 | [1550-three-consecutive-odds](https://github.com/muhammednaseemtk/leetCode/tree/master/1550-three-consecutive-odds) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/muhammednaseemtk/leetCode/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1672-richest-customer-wealth](https://github.com/muhammednaseemtk/leetCode/tree/master/1672-richest-customer-wealth) |
+| [1748-sum-of-unique-elements](https://github.com/muhammednaseemtk/leetCode/tree/master/1748-sum-of-unique-elements) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/muhammednaseemtk/leetCode/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/muhammednaseemtk/leetCode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/muhammednaseemtk/leetCode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
@@ -171,6 +173,7 @@
 | [1221-split-a-string-in-balanced-strings](https://github.com/muhammednaseemtk/leetCode/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/muhammednaseemtk/leetCode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1512-number-of-good-pairs](https://github.com/muhammednaseemtk/leetCode/tree/master/1512-number-of-good-pairs) |
+| [1748-sum-of-unique-elements](https://github.com/muhammednaseemtk/leetCode/tree/master/1748-sum-of-unique-elements) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/muhammednaseemtk/leetCode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/muhammednaseemtk/leetCode/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/muhammednaseemtk/leetCode/tree/master/2341-maximum-number-of-pairs-in-array) |
