@@ -59,6 +59,7 @@
 | [1323-maximum-69-number](https://github.com/muhammednaseemtk/leetCode/tree/master/1323-maximum-69-number) |
 | [1903-largest-odd-number-in-string](https://github.com/muhammednaseemtk/leetCode/tree/master/1903-largest-odd-number-in-string) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/muhammednaseemtk/leetCode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/muhammednaseemtk/leetCode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/muhammednaseemtk/leetCode/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/muhammednaseemtk/leetCode/tree/master/2656-maximum-sum-with-exactly-k-elements) |
 | [2697-lexicographically-smallest-palindrome](https://github.com/muhammednaseemtk/leetCode/tree/master/2697-lexicographically-smallest-palindrome) |
@@ -135,6 +136,7 @@
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/muhammednaseemtk/leetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/muhammednaseemtk/leetCode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/muhammednaseemtk/leetCode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/muhammednaseemtk/leetCode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/muhammednaseemtk/leetCode/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2341-maximum-number-of-pairs-in-array](https://github.com/muhammednaseemtk/leetCode/tree/master/2341-maximum-number-of-pairs-in-array) |
 | [2418-sort-the-people](https://github.com/muhammednaseemtk/leetCode/tree/master/2418-sort-the-people) |
@@ -170,6 +172,7 @@
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/muhammednaseemtk/leetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/muhammednaseemtk/leetCode/tree/master/1636-sort-array-by-increasing-frequency) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/muhammednaseemtk/leetCode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/muhammednaseemtk/leetCode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/muhammednaseemtk/leetCode/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2418-sort-the-people](https://github.com/muhammednaseemtk/leetCode/tree/master/2418-sort-the-people) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/muhammednaseemtk/leetCode/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
