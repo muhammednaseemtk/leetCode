@@ -105,6 +105,7 @@
 | ------- |
 | [0035-search-insert-position](https://github.com/muhammednaseemtk/leetCode/tree/master/0035-search-insert-position) |
 | [0078-subsets](https://github.com/muhammednaseemtk/leetCode/tree/master/0078-subsets) |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/muhammednaseemtk/leetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/muhammednaseemtk/leetCode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/muhammednaseemtk/leetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0189-rotate-array](https://github.com/muhammednaseemtk/leetCode/tree/master/0189-rotate-array) |
@@ -197,6 +198,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/muhammednaseemtk/leetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/muhammednaseemtk/leetCode/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/muhammednaseemtk/leetCode/tree/master/0189-rotate-array) |
 | [0922-sort-array-by-parity-ii](https://github.com/muhammednaseemtk/leetCode/tree/master/0922-sort-array-by-parity-ii) |
