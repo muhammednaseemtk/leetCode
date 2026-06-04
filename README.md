@@ -213,6 +213,7 @@
 |  |
 | ------- |
 | [0078-subsets](https://github.com/muhammednaseemtk/leetCode/tree/master/0078-subsets) |
+| [0191-number-of-1-bits](https://github.com/muhammednaseemtk/leetCode/tree/master/0191-number-of-1-bits) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/muhammednaseemtk/leetCode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/muhammednaseemtk/leetCode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1486-xor-operation-in-an-array](https://github.com/muhammednaseemtk/leetCode/tree/master/1486-xor-operation-in-an-array) |
@@ -290,4 +291,8 @@
 |  |
 | ------- |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/muhammednaseemtk/leetCode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0191-number-of-1-bits](https://github.com/muhammednaseemtk/leetCode/tree/master/0191-number-of-1-bits) |
 <!---LeetCode Topics End-->
