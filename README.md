@@ -55,6 +55,7 @@
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/muhammednaseemtk/leetCode/tree/master/0561-array-partition) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/muhammednaseemtk/leetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/muhammednaseemtk/leetCode/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1323-maximum-69-number](https://github.com/muhammednaseemtk/leetCode/tree/master/1323-maximum-69-number) |
 | [1903-largest-odd-number-in-string](https://github.com/muhammednaseemtk/leetCode/tree/master/1903-largest-odd-number-in-string) |
@@ -68,6 +69,7 @@
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/muhammednaseemtk/leetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/muhammednaseemtk/leetCode/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/muhammednaseemtk/leetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0771-jewels-and-stones](https://github.com/muhammednaseemtk/leetCode/tree/master/0771-jewels-and-stones) |
 | [0791-custom-sort-string](https://github.com/muhammednaseemtk/leetCode/tree/master/0791-custom-sort-string) |
 | [1122-relative-sort-array](https://github.com/muhammednaseemtk/leetCode/tree/master/1122-relative-sort-array) |
@@ -111,6 +113,7 @@
 | [0189-rotate-array](https://github.com/muhammednaseemtk/leetCode/tree/master/0189-rotate-array) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/muhammednaseemtk/leetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0561-array-partition](https://github.com/muhammednaseemtk/leetCode/tree/master/0561-array-partition) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/muhammednaseemtk/leetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0682-baseball-game](https://github.com/muhammednaseemtk/leetCode/tree/master/0682-baseball-game) |
 | [0922-sort-array-by-parity-ii](https://github.com/muhammednaseemtk/leetCode/tree/master/0922-sort-array-by-parity-ii) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/muhammednaseemtk/leetCode/tree/master/0950-reveal-cards-in-increasing-order) |
@@ -162,6 +165,7 @@
 | [0088-merge-sorted-array](https://github.com/muhammednaseemtk/leetCode/tree/master/0088-merge-sorted-array) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/muhammednaseemtk/leetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0561-array-partition](https://github.com/muhammednaseemtk/leetCode/tree/master/0561-array-partition) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/muhammednaseemtk/leetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0791-custom-sort-string](https://github.com/muhammednaseemtk/leetCode/tree/master/0791-custom-sort-string) |
 | [0922-sort-array-by-parity-ii](https://github.com/muhammednaseemtk/leetCode/tree/master/0922-sort-array-by-parity-ii) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/muhammednaseemtk/leetCode/tree/master/0950-reveal-cards-in-increasing-order) |
@@ -286,10 +290,12 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/muhammednaseemtk/leetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [1046-last-stone-weight](https://github.com/muhammednaseemtk/leetCode/tree/master/1046-last-stone-weight) |
 ## Sliding Window
 |  |
 | ------- |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/muhammednaseemtk/leetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/muhammednaseemtk/leetCode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## Divide and Conquer
 |  |
