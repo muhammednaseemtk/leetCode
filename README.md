@@ -73,6 +73,7 @@
 | [0771-jewels-and-stones](https://github.com/muhammednaseemtk/leetCode/tree/master/0771-jewels-and-stones) |
 | [0791-custom-sort-string](https://github.com/muhammednaseemtk/leetCode/tree/master/0791-custom-sort-string) |
 | [1122-relative-sort-array](https://github.com/muhammednaseemtk/leetCode/tree/master/1122-relative-sort-array) |
+| [1331-rank-transform-of-an-array](https://github.com/muhammednaseemtk/leetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/muhammednaseemtk/leetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1436-destination-city](https://github.com/muhammednaseemtk/leetCode/tree/master/1436-destination-city) |
 | [1512-number-of-good-pairs](https://github.com/muhammednaseemtk/leetCode/tree/master/1512-number-of-good-pairs) |
@@ -124,6 +125,7 @@
 | [1200-minimum-absolute-difference](https://github.com/muhammednaseemtk/leetCode/tree/master/1200-minimum-absolute-difference) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/muhammednaseemtk/leetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/muhammednaseemtk/leetCode/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
+| [1331-rank-transform-of-an-array](https://github.com/muhammednaseemtk/leetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/muhammednaseemtk/leetCode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/muhammednaseemtk/leetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/muhammednaseemtk/leetCode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -173,6 +175,7 @@
 | [1051-height-checker](https://github.com/muhammednaseemtk/leetCode/tree/master/1051-height-checker) |
 | [1122-relative-sort-array](https://github.com/muhammednaseemtk/leetCode/tree/master/1122-relative-sort-array) |
 | [1200-minimum-absolute-difference](https://github.com/muhammednaseemtk/leetCode/tree/master/1200-minimum-absolute-difference) |
+| [1331-rank-transform-of-an-array](https://github.com/muhammednaseemtk/leetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/muhammednaseemtk/leetCode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/muhammednaseemtk/leetCode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/muhammednaseemtk/leetCode/tree/master/1636-sort-array-by-increasing-frequency) |
