@@ -221,6 +221,7 @@
 | ------- |
 | [0078-subsets](https://github.com/muhammednaseemtk/leetCode/tree/master/0078-subsets) |
 | [0191-number-of-1-bits](https://github.com/muhammednaseemtk/leetCode/tree/master/0191-number-of-1-bits) |
+| [0338-counting-bits](https://github.com/muhammednaseemtk/leetCode/tree/master/0338-counting-bits) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/muhammednaseemtk/leetCode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/muhammednaseemtk/leetCode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1486-xor-operation-in-an-array](https://github.com/muhammednaseemtk/leetCode/tree/master/1486-xor-operation-in-an-array) |
@@ -286,6 +287,7 @@
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/muhammednaseemtk/leetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0338-counting-bits](https://github.com/muhammednaseemtk/leetCode/tree/master/0338-counting-bits) |
 ## String Matching
 |  |
 | ------- |
