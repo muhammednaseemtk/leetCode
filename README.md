@@ -112,6 +112,7 @@
 | [0088-merge-sorted-array](https://github.com/muhammednaseemtk/leetCode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/muhammednaseemtk/leetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0189-rotate-array](https://github.com/muhammednaseemtk/leetCode/tree/master/0189-rotate-array) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/muhammednaseemtk/leetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/muhammednaseemtk/leetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0561-array-partition](https://github.com/muhammednaseemtk/leetCode/tree/master/0561-array-partition) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/muhammednaseemtk/leetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
@@ -165,6 +166,7 @@
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/muhammednaseemtk/leetCode/tree/master/0088-merge-sorted-array) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/muhammednaseemtk/leetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/muhammednaseemtk/leetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0561-array-partition](https://github.com/muhammednaseemtk/leetCode/tree/master/0561-array-partition) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/muhammednaseemtk/leetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
@@ -230,6 +232,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/muhammednaseemtk/leetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1672-richest-customer-wealth](https://github.com/muhammednaseemtk/leetCode/tree/master/1672-richest-customer-wealth) |
 ## Simulation
 |  |
@@ -273,6 +276,7 @@
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/muhammednaseemtk/leetCode/tree/master/0035-search-insert-position) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/muhammednaseemtk/leetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/muhammednaseemtk/leetCode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Backtracking
 |  |
@@ -295,6 +299,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/muhammednaseemtk/leetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/muhammednaseemtk/leetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [1046-last-stone-weight](https://github.com/muhammednaseemtk/leetCode/tree/master/1046-last-stone-weight) |
 ## Sliding Window
