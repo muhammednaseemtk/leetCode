@@ -28,6 +28,7 @@
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/muhammednaseemtk/leetCode/tree/master/0005-longest-palindromic-substring) |
 | [0020-valid-parentheses](https://github.com/muhammednaseemtk/leetCode/tree/master/0020-valid-parentheses) |
 | [0387-first-unique-character-in-a-string](https://github.com/muhammednaseemtk/leetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0657-robot-return-to-origin](https://github.com/muhammednaseemtk/leetCode/tree/master/0657-robot-return-to-origin) |
@@ -207,6 +208,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/muhammednaseemtk/leetCode/tree/master/0005-longest-palindromic-substring) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/muhammednaseemtk/leetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/muhammednaseemtk/leetCode/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/muhammednaseemtk/leetCode/tree/master/0189-rotate-array) |
@@ -290,6 +292,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/muhammednaseemtk/leetCode/tree/master/0005-longest-palindromic-substring) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/muhammednaseemtk/leetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0338-counting-bits](https://github.com/muhammednaseemtk/leetCode/tree/master/0338-counting-bits) |
 ## String Matching
