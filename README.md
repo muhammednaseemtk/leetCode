@@ -25,6 +25,7 @@
 | [3232-find-if-digit-game-can-be-won](https://github.com/muhammednaseemtk/leetCode/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/muhammednaseemtk/leetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/muhammednaseemtk/leetCode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/muhammednaseemtk/leetCode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## String
 |  |
 | ------- |
@@ -94,6 +95,7 @@
 | [1863-sum-of-all-subset-xor-totals](https://github.com/muhammednaseemtk/leetCode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/muhammednaseemtk/leetCode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2947-count-beautiful-substrings-i](https://github.com/muhammednaseemtk/leetCode/tree/master/2947-count-beautiful-substrings-i) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/muhammednaseemtk/leetCode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Number Theory
 |  |
 | ------- |
@@ -295,6 +297,7 @@
 | [0005-longest-palindromic-substring](https://github.com/muhammednaseemtk/leetCode/tree/master/0005-longest-palindromic-substring) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/muhammednaseemtk/leetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0338-counting-bits](https://github.com/muhammednaseemtk/leetCode/tree/master/0338-counting-bits) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/muhammednaseemtk/leetCode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## String Matching
 |  |
 | ------- |
