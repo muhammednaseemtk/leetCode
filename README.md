@@ -31,6 +31,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/muhammednaseemtk/leetCode/tree/master/0005-longest-palindromic-substring) |
 | [0020-valid-parentheses](https://github.com/muhammednaseemtk/leetCode/tree/master/0020-valid-parentheses) |
+| [0076-minimum-window-substring](https://github.com/muhammednaseemtk/leetCode/tree/master/0076-minimum-window-substring) |
 | [0387-first-unique-character-in-a-string](https://github.com/muhammednaseemtk/leetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0657-robot-return-to-origin](https://github.com/muhammednaseemtk/leetCode/tree/master/0657-robot-return-to-origin) |
 | [0771-jewels-and-stones](https://github.com/muhammednaseemtk/leetCode/tree/master/0771-jewels-and-stones) |
@@ -69,6 +70,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/muhammednaseemtk/leetCode/tree/master/0076-minimum-window-substring) |
 | [0387-first-unique-character-in-a-string](https://github.com/muhammednaseemtk/leetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/muhammednaseemtk/leetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/muhammednaseemtk/leetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
@@ -311,6 +313,7 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/muhammednaseemtk/leetCode/tree/master/0076-minimum-window-substring) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/muhammednaseemtk/leetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/muhammednaseemtk/leetCode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## Divide and Conquer
