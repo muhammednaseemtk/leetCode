@@ -31,6 +31,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/muhammednaseemtk/leetCode/tree/master/0005-longest-palindromic-substring) |
 | [0020-valid-parentheses](https://github.com/muhammednaseemtk/leetCode/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/muhammednaseemtk/leetCode/tree/master/0022-generate-parentheses) |
 | [0076-minimum-window-substring](https://github.com/muhammednaseemtk/leetCode/tree/master/0076-minimum-window-substring) |
 | [0387-first-unique-character-in-a-string](https://github.com/muhammednaseemtk/leetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0657-robot-return-to-origin](https://github.com/muhammednaseemtk/leetCode/tree/master/0657-robot-return-to-origin) |
@@ -293,6 +294,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/muhammednaseemtk/leetCode/tree/master/0022-generate-parentheses) |
 | [0078-subsets](https://github.com/muhammednaseemtk/leetCode/tree/master/0078-subsets) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/muhammednaseemtk/leetCode/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Combinatorics
@@ -303,6 +305,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/muhammednaseemtk/leetCode/tree/master/0005-longest-palindromic-substring) |
+| [0022-generate-parentheses](https://github.com/muhammednaseemtk/leetCode/tree/master/0022-generate-parentheses) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/muhammednaseemtk/leetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0338-counting-bits](https://github.com/muhammednaseemtk/leetCode/tree/master/0338-counting-bits) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/muhammednaseemtk/leetCode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
