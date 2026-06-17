@@ -221,6 +221,7 @@
 | [0011-container-with-most-water](https://github.com/muhammednaseemtk/leetCode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/muhammednaseemtk/leetCode/tree/master/0015-3sum) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/muhammednaseemtk/leetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0086-partition-list](https://github.com/muhammednaseemtk/leetCode/tree/master/0086-partition-list) |
 | [0088-merge-sorted-array](https://github.com/muhammednaseemtk/leetCode/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/muhammednaseemtk/leetCode/tree/master/0189-rotate-array) |
 | [0922-sort-array-by-parity-ii](https://github.com/muhammednaseemtk/leetCode/tree/master/0922-sort-array-by-parity-ii) |
@@ -329,4 +330,8 @@
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/muhammednaseemtk/leetCode/tree/master/0191-number-of-1-bits) |
+## Linked List
+|  |
+| ------- |
+| [0086-partition-list](https://github.com/muhammednaseemtk/leetCode/tree/master/0086-partition-list) |
 <!---LeetCode Topics End-->
