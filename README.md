@@ -63,6 +63,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/muhammednaseemtk/leetCode/tree/master/0011-container-with-most-water) |
 | [0179-largest-number](https://github.com/muhammednaseemtk/leetCode/tree/master/0179-largest-number) |
+| [0397-integer-replacement](https://github.com/muhammednaseemtk/leetCode/tree/master/0397-integer-replacement) |
 | [0561-array-partition](https://github.com/muhammednaseemtk/leetCode/tree/master/0561-array-partition) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/muhammednaseemtk/leetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/muhammednaseemtk/leetCode/tree/master/1221-split-a-string-in-balanced-strings) |
@@ -253,6 +254,7 @@
 | [0191-number-of-1-bits](https://github.com/muhammednaseemtk/leetCode/tree/master/0191-number-of-1-bits) |
 | [0338-counting-bits](https://github.com/muhammednaseemtk/leetCode/tree/master/0338-counting-bits) |
 | [0389-find-the-difference](https://github.com/muhammednaseemtk/leetCode/tree/master/0389-find-the-difference) |
+| [0397-integer-replacement](https://github.com/muhammednaseemtk/leetCode/tree/master/0397-integer-replacement) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/muhammednaseemtk/leetCode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/muhammednaseemtk/leetCode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1486-xor-operation-in-an-array](https://github.com/muhammednaseemtk/leetCode/tree/master/1486-xor-operation-in-an-array) |
@@ -325,6 +327,7 @@
 | [0022-generate-parentheses](https://github.com/muhammednaseemtk/leetCode/tree/master/0022-generate-parentheses) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/muhammednaseemtk/leetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0338-counting-bits](https://github.com/muhammednaseemtk/leetCode/tree/master/0338-counting-bits) |
+| [0397-integer-replacement](https://github.com/muhammednaseemtk/leetCode/tree/master/0397-integer-replacement) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/muhammednaseemtk/leetCode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## String Matching
 |  |
@@ -355,4 +358,8 @@
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/muhammednaseemtk/leetCode/tree/master/0451-sort-characters-by-frequency) |
+## Memoization
+|  |
+| ------- |
+| [0397-integer-replacement](https://github.com/muhammednaseemtk/leetCode/tree/master/0397-integer-replacement) |
 <!---LeetCode Topics End-->
