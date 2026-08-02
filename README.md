@@ -77,6 +77,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/muhammednaseemtk/leetCode/tree/master/0001-two-sum) |
 | [0076-minimum-window-substring](https://github.com/muhammednaseemtk/leetCode/tree/master/0076-minimum-window-substring) |
 | [0387-first-unique-character-in-a-string](https://github.com/muhammednaseemtk/leetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/muhammednaseemtk/leetCode/tree/master/0389-find-the-difference) |
@@ -121,6 +122,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/muhammednaseemtk/leetCode/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/muhammednaseemtk/leetCode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/muhammednaseemtk/leetCode/tree/master/0015-3sum) |
 | [0035-search-insert-position](https://github.com/muhammednaseemtk/leetCode/tree/master/0035-search-insert-position) |
