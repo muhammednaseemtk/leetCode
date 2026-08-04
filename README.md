@@ -364,4 +364,8 @@
 |  |
 | ------- |
 | [0397-integer-replacement](https://github.com/muhammednaseemtk/leetCode/tree/master/0397-integer-replacement) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/muhammednaseemtk/leetCode/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
